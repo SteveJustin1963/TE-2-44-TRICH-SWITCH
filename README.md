@@ -1,4 +1,4 @@
-# TE-2-44-TRICK-SWITCH
+# TE-2-TRICK-SWITCH
 
 "So? What's the trick?" you ask. "The circuit looks perfectly normal to me". When you build up the circuit you will find the switching plate, called a TOUCH PLATE, has only ONE wire connecting it to the circuit. Now anybody with even the slightest idea of electrical circuits knows you need two wires for a switch to operate. Thus the trick. We need only ONE wire! Unfortunately nearly everyone also knows about touch controls. We see them in lifts and touch pads to open doors so the day may be nearly past when a one wire touch switch has any real impact. Anyway it does provide a neat project with potential for experimenting and you may find a new use for a touch plate in the process. This circuit does not have a "one touch and it's on" or "one touch and it's off" ability as the random chance of the LED finishing up lit is 50%. 
 
